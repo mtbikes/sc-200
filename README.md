@@ -1,4 +1,4 @@
-# sc-200 Micrisft Security OPerations Analyst
+# SC-200 Microsoft Security Operations Analyst
 ##
 ##  Module 6 - lab 1 - exercise 3
 ##
@@ -8,7 +8,7 @@ python
 apt get python
 ## Get files from git repo to install linux components
 git clone https://github.com/mtbikes/sc-200.git
-## Chnge directories
+## Change directories
 cd sc-200
 ## make the scripts executable
 chmod 777 *
